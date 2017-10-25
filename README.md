@@ -11,6 +11,8 @@ bloques).
 - [El proyecto Ethereum](https://ethereum.org/)
 - [Solidity, Wikipedia](https://en.wikipedia.org/wiki/Solidity)
 - [Solidity Documentation](http://solidity.readthedocs.io/en/develop/)
+- [Getting started with Ethereum as a developer](https://medium.com/bcgdv-engineering/getting-started-with-ethereum-as-a-developer-af20d78c49f)
+- [Learn X in Y Minutes, where X = Solidity](https://learnxinyminutes.com/docs/solidity/)
 
 ## Sobre el idioma
 
