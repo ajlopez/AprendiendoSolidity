@@ -13,6 +13,12 @@ bloques).
 - [Solidity Documentation](http://solidity.readthedocs.io/en/develop/)
 - [Getting started with Ethereum as a developer](https://medium.com/bcgdv-engineering/getting-started-with-ethereum-as-a-developer-af20d78c49f)
 - [Learn X in Y Minutes, where X = Solidity](https://learnxinyminutes.com/docs/solidity/)
+- [Getting Up to Speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
+- [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+- [Programming Ethereum smart contract transactions in JavaScript](https://tokenmarket.net/blog/creating-ethereum-smart-contract-transactions-in-client-side-javascript/)
+- [Ethereum Virtual Machine Awesome List](https://github.com/pirapira/awesome-ethereum-virtual-machine)
+- [A curated list of awesome Solidity resources, libraries, tools and more](https://github.com/bkrem/awesome-solidity)
+- [A curated list of awesome Ethereum Ressources](http://awesome-ethereum.com/)
 
 ## Sobre el idioma
 
