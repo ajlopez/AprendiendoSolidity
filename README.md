@@ -16,21 +16,29 @@ la explicación quede claro cuál es la traducción.
 ## Temas
 
 - Blockchain
-- El proyecto Ethereum
-- El proyecto RSK
+    - El proyecto Ethereum
+    - El proyecto RSK
 - Contratos Inteligentes (Smart Contracts)
 - Lenguaje Solidity
-- Estructura de un contrato
-- Tipos de variables
-- Estructuras de control
-- Compilando Solidity
+    - Estructura de un contrato
+    - Tipos de variables
+    - Estructuras de control
 - Ejecutando Solidity
-- Escribiendo pruebas
-- Escribiendo DApps (aplicaciones distribuidas)
+    - Ejecutando en browser
+    - Compilando un contrato
+    - Creando una instancia
+    - Invocando a un contrato
+    - Escribiendo pruebas
+- DApps (aplicaciones distribuidas)
 - La Ethereum Virtual Machine
-- Utilitarios
-- Truffle
-- OpenZeppelin
+    - Opcodes
+    - Almacenamiento de estado
+    - Memoria
+    - Pila
+    - Consumo de gas
+- Librerías y Frameworks
+    - Truffle
+    - OpenZeppelin
 
 ## Recursos
 
