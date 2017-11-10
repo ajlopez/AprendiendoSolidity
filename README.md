@@ -19,6 +19,7 @@ bloques).
 - [Ethereum Virtual Machine Awesome List](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 - [A curated list of awesome Solidity resources, libraries, tools and more](https://github.com/bkrem/awesome-solidity)
 - [A curated list of awesome Ethereum Ressources](http://awesome-ethereum.com/)
+- [Dapps for Beginners](https://dappsforbeginners.wordpress.com)
 
 ## Sobre el idioma
 
