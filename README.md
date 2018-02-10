@@ -48,6 +48,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Solidity, Wikipedia](https://en.wikipedia.org/wiki/Solidity)
 - [Solidity Documentation](http://solidity.readthedocs.io/en/develop/)
 - [Getting started with Ethereum as a developer](https://medium.com/bcgdv-engineering/getting-started-with-ethereum-as-a-developer-af20d78c49f)
+- [Getting Started as an Ethereum Web Developer](https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf)
 - [Learn X in Y Minutes, where X = Solidity](https://learnxinyminutes.com/docs/solidity/)
 - [Getting Up to Speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
 - [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
@@ -56,6 +57,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [A curated list of awesome Solidity resources, libraries, tools and more](https://github.com/bkrem/awesome-solidity)
 - [A curated list of awesome Ethereum Ressources](http://awesome-ethereum.com/)
 - [Dapps for Beginners](https://dappsforbeginners.wordpress.com)
+- [Tips and Tricks for Adding Metamask to Your UI](https://hackernoon.com/tips-and-tricks-for-adding-metamask-to-your-ui-32728b437194)
 
 ## Presentaciones
 
