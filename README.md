@@ -19,8 +19,8 @@ la explicación quede claro cuál es la traducción.
     - El proyecto Ethereum
     - El proyecto RSK	
 - Contratos Inteligentes (Smart Contracts)
-- (Nodo TestRPC)[https://github.com/ajlopez/AprendiendoSolidity/blob/master/TestRPC.md]
-- (Lenguaje Solidity)[https://github.com/ajlopez/AprendiendoSolidity/blob/master/Solidity.md]
+- [Nodo TestRPC](https://github.com/ajlopez/AprendiendoSolidity/blob/master/TestRPC.md)
+- [Lenguaje Solidity](https://github.com/ajlopez/AprendiendoSolidity/blob/master/Solidity.md)
     - Estructura de un contrato
     - Tipos de variables
     - Estructuras de control
