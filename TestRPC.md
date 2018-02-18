@@ -3,7 +3,7 @@
 Para ejecutar contratos inteligentes y transacciones en general, necesitamos
 conectarnos a un nodo Ethereum. Hay varias implementaciones, en distintos lenguajes
 de programación, como Go, Rust y Java. Pero para estas lecciones voy
-a usar uno escrito en JavaScript que se ejecuta desde [NodeJS](NodeJS).
+a usar uno escrito en JavaScript que se ejecuta desde [NodeJS](NodeJS.md).
 
 Luego, hay que instalar TestRPC como módulo NodeJS pero de forma global, para
 que podamos lanzarlo desde cualquier directorio
