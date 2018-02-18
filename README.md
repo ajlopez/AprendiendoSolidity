@@ -21,7 +21,7 @@ la explicación quede claro cuál es la traducción.
 - Contratos Inteligentes (Smart Contracts)
 - Herramientas a usar
 	- Compilador de Solidity
-	- NodeJS
+	- [NodeJS](https://github.com/ajlopez/AprendiendoSolidity/blob/master/NodeJS.md)
 	- [Nodo TestRPC](https://github.com/ajlopez/AprendiendoSolidity/blob/master/TestRPC.md)
 	- Ejecutor Exeth
 - [Lenguaje Solidity](https://github.com/ajlopez/AprendiendoSolidity/blob/master/Solidity.md)
