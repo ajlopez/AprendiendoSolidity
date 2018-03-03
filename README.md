@@ -23,7 +23,7 @@ la explicación quede claro cuál es la traducción.
 	- Compilador de Solidity
 	- [NodeJS](https://github.com/ajlopez/AprendiendoSolidity/blob/master/NodeJS.md)
 	- [Nodo TestRPC](https://github.com/ajlopez/AprendiendoSolidity/blob/master/TestRPC.md)
-	- Ejecutor Exeth
+	- [Ejecutor Exeth](https://github.com/ajlopez/AprendiendoSolidity/blob/master/Exeth.md)
 - [Lenguaje Solidity](https://github.com/ajlopez/AprendiendoSolidity/blob/master/Solidity.md)
     - Estructura de un contrato
     - Tipos de variables
