@@ -63,6 +63,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [A curated list of awesome Ethereum Ressources](http://awesome-ethereum.com/)
 - [Dapps for Beginners](https://dappsforbeginners.wordpress.com)
 - [Tips and Tricks for Adding Metamask to Your UI](https://hackernoon.com/tips-and-tricks-for-adding-metamask-to-your-ui-32728b437194)
+- [A Guide to Gas](https://media.consensys.net/a-guide-to-gas-12b40d03605d)
 
 ## Presentaciones
 
