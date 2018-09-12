@@ -65,6 +65,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Tips and Tricks for Adding Metamask to Your UI](https://hackernoon.com/tips-and-tricks-for-adding-metamask-to-your-ui-32728b437194)
 - [A Guide to Gas](https://media.consensys.net/a-guide-to-gas-12b40d03605d)
 - [List of awesome platforms for smart contracts](https://github.com/Overtorment/awesome-smart-contracts)
+- [Lightweight Explorer](https://github.com/etherparty/explorer)
 
 ## Presentaciones
 
