@@ -66,6 +66,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [A Guide to Gas](https://media.consensys.net/a-guide-to-gas-12b40d03605d)
 - [List of awesome platforms for smart contracts](https://github.com/Overtorment/awesome-smart-contracts)
 - [Lightweight Explorer](https://github.com/etherparty/explorer)
+- [Debugging a Smart Contract](https://truffleframework.com/tutorials/debugging-a-smart-contract)
 
 ## Presentaciones
 
