@@ -67,6 +67,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [List of awesome platforms for smart contracts](https://github.com/Overtorment/awesome-smart-contracts)
 - [Lightweight Explorer](https://github.com/etherparty/explorer)
 - [Debugging a Smart Contract](https://truffleframework.com/tutorials/debugging-a-smart-contract)
+- [Truffle Tricks for Ethereum Development: Dispelling 8 Myths & First Impressions](https://medium.com/@timothyjcoulter/truffle-tricks-for-ethereum-development-dispelling-8-myths-first-impressions-880f66bf3320)
 
 ## Presentaciones
 
