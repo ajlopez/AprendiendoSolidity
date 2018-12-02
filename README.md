@@ -76,3 +76,8 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Smart Contracts](https://docs.google.com/presentation/d/16dw66tjzUs1bQ5y5rDCQ1MnkZXSfXUiu-cNDMmG9tC4)
 - [Más allá de Bitcoin y Ethereum](https://docs.google.com/presentation/d/1DouPDO1LZF2RiESnemmD6OLZ8YbX2Re0Jip4NjELsg4)
 - [Introduction to RSK](https://docs.google.com/presentation/d/1f7avYHnTOhLh9WMw6GKpKagltjqNgcwS0rQPlbHcgII)
+
+## Sesiones de Video
+
+- [Programando Smart Contracts Sesión 1](https://www.youtube.com/watch?v=GMa8_pGr28Y) [Notas de la sesión](https://github.com/ajlopez/AprendiendoSolidity/blob/master/SM01.md)
+
