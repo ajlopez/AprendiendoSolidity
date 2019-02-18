@@ -77,7 +77,20 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Más allá de Bitcoin y Ethereum](https://docs.google.com/presentation/d/1DouPDO1LZF2RiESnemmD6OLZ8YbX2Re0Jip4NjELsg4)
 - [Introduction to RSK](https://docs.google.com/presentation/d/1f7avYHnTOhLh9WMw6GKpKagltjqNgcwS0rQPlbHcgII)
 
+## Mis Proyectos usando Solidity
+
+Programación usando TDD (Test-Driven Development)
+
+- [Solidity Compiler](https://github.com/ajlopez/SolidityCompiler)
+- [Solidity Decompiler](https://github.com/ajlopez/Yasold)
+- [Decentralized Exchange for ERC20 Tokens](https://github.com/ajlopez/Dexert)
+- [Decentralized Identity for Ethereum/RSK](https://github.com/ajlopez/Idener)
+- [Simple Ethereum/RSK Bridge](https://github.com/ajlopez/EthBridge)
+- [Simple Ethereum/RSK Collectible Token](https://github.com/ajlopez/EthCollectible)
+- [Simple Ethereum/RSK Pets Token](https://github.com/ajlopez/EthPets)
+
 ## Sesiones de Video
 
 - [Programando Smart Contracts Sesión 1](https://www.youtube.com/watch?v=GMa8_pGr28Y) [Notas de la sesión](https://github.com/ajlopez/AprendiendoSolidity/blob/master/SM01.md)
+- [Programando Smart Contracts Sesión 2](https://www.youtube.com/watch?v=TtuVvZeg8E4) [Notas de la sesión](https://github.com/ajlopez/AprendiendoSolidity/blob/master/SM02.md)
 
