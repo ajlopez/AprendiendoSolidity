@@ -93,4 +93,5 @@ Programación usando TDD (Test-Driven Development)
 
 - [Programando Smart Contracts Sesión 1](https://www.youtube.com/watch?v=GMa8_pGr28Y) [Notas de la sesión](https://github.com/ajlopez/AprendiendoSolidity/blob/master/SM01.md)
 - [Programando Smart Contracts Sesión 2](https://www.youtube.com/watch?v=TtuVvZeg8E4) [Notas de la sesión](https://github.com/ajlopez/AprendiendoSolidity/blob/master/SM02.md)
+- [Programando Smart Contracts Sesión 3](https://www.youtube.com/watch?v=0MkzRRUXOcM) [Notas de la sesión](https://github.com/ajlopez/AprendiendoSolidity/blob/master/SM03.md)
 
