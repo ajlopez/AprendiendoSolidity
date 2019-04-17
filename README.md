@@ -50,6 +50,7 @@ la explicación quede claro cuál es la traducción.
 Hay muchos recursos en inglés, espero poder agregar otros en español.
 
 - [El proyecto Ethereum](https://ethereum.org/)
+- [Learn Ethereum](https://ethereum.network/learn)
 - [Solidity, Wikipedia](https://en.wikipedia.org/wiki/Solidity)
 - [Solidity Documentation](http://solidity.readthedocs.io/en/develop/)
 - [Getting started with Ethereum as a developer](https://medium.com/bcgdv-engineering/getting-started-with-ethereum-as-a-developer-af20d78c49f)
