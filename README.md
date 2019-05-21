@@ -22,7 +22,7 @@ la explicación quede claro cuál es la traducción.
 - Herramientas a usar
 	- Compilador de Solidity
 	- [NodeJS](https://github.com/ajlopez/AprendiendoSolidity/blob/master/NodeJS.md)
-	- [Nodo TestRPC](https://github.com/ajlopez/AprendiendoSolidity/blob/master/TestRPC.md)
+	- [Nodo GanacheCLI](https://github.com/ajlopez/AprendiendoSolidity/blob/master/GanacheCLI.md)
 	- [Ejecutor Exeth](https://github.com/ajlopez/AprendiendoSolidity/blob/master/Exeth.md)
 - [Lenguaje Solidity](https://github.com/ajlopez/AprendiendoSolidity/blob/master/Solidity.md)
     - Estructura de un contrato
