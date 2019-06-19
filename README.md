@@ -77,6 +77,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Smart Contracts](https://docs.google.com/presentation/d/16dw66tjzUs1bQ5y5rDCQ1MnkZXSfXUiu-cNDMmG9tC4)
 - [Más allá de Bitcoin y Ethereum](https://docs.google.com/presentation/d/1DouPDO1LZF2RiESnemmD6OLZ8YbX2Re0Jip4NjELsg4)
 - [Introduction to RSK](https://docs.google.com/presentation/d/1f7avYHnTOhLh9WMw6GKpKagltjqNgcwS0rQPlbHcgII)
+- [Programando Smart Contracts](https://docs.google.com/presentation/d/1N0dbw1TGV0xcmTo1p1HNly7lauEQIs86kjVzd4InQ2I/edit#slide=id.g59b2445cbd_0_6)
 
 ## Mis Proyectos usando Solidity
 
