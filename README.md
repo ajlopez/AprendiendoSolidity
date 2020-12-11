@@ -53,6 +53,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Learn Ethereum](https://ethereum.network/learn)
 - [Solidity, Wikipedia](https://en.wikipedia.org/wiki/Solidity)
 - [Solidity Documentation](http://solidity.readthedocs.io/en/develop/)
+- [How to Become a Blockchain Developer](https://medium.com/better-programming/how-to-become-a-blockchain-developer-7a6d643d1d4d)
 - [Getting started with Ethereum as a developer](https://medium.com/bcgdv-engineering/getting-started-with-ethereum-as-a-developer-af20d78c49f)
 - [Getting Started as an Ethereum Web Developer](https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf)
 - [Learn X in Y Minutes, where X = Solidity](https://learnxinyminutes.com/docs/solidity/)
