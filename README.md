@@ -16,7 +16,7 @@ la explicación quede claro cuál es la traducción.
 ## Temas
 
 - [Introducción](https://github.com/ajlopez/AprendiendoSolidity/blob/master/Introduction.md)
-- Blockchain
+- [Blockchain](https://github.com/ajlopez/AprendiendoSolidity/blob/master/Blockchain.md)
     - El proyecto Ethereum
     - El proyecto RSK	
 - Contratos Inteligentes (Smart Contracts)
