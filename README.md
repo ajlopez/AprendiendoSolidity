@@ -71,6 +71,7 @@ Hay muchos recursos en inglés, espero poder agregar otros en español.
 - [Lightweight Explorer](https://github.com/etherparty/explorer)
 - [Debugging a Smart Contract](https://truffleframework.com/tutorials/debugging-a-smart-contract)
 - [Truffle Tricks for Ethereum Development: Dispelling 8 Myths & First Impressions](https://medium.com/@timothyjcoulter/truffle-tricks-for-ethereum-development-dispelling-8-myths-first-impressions-880f66bf3320)
+- [A Guide to Ethereum](https://medium.com/coinmonks/pauls-guide-to-ethereum-280be582653)
 
 ## Presentaciones
 
