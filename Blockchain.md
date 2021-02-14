@@ -8,7 +8,8 @@ Bueno, muchas preguntas, pero veamos algunas características.
 
 Primero, hoy hay muchas blockchain. Si bien la más conocida puede ser Bitcoin,
 también existen Ethereum, EOS, Iota, Cardano,... Y aún cada una de éstas
-tiene proyectos derivados: por ejemplo, en Ethereum tenemos Celo, RSK,...
+tiene proyectos derivados: por ejemplo, en Ethereum tenemos Celo, 
+RSK,...
 
 Segundo, en general son públicas, pero no siempre es el caso. Esto significa
 que los bloques que componen una blockchain pública, como Bitcoin o Ethereum,
@@ -49,9 +50,12 @@ Eso es sólo el comienzo: se pueden crear otros activos digitales (tokens en gen
 que pueden funcionar como "acciones" o monedas con valor que pueden manejarse
 (comprar, vender, intercambiar) creando un nuevo sistema financiero.
 
-Cuarto: la blockchain no para
+Cuarto: la blockchain no para, sigue ejecutándose a cada minuto,
+en cada uno de sus nodos, alrededor del mundo.
 
-Quinto: lo que entra en la blockchain queda en la blockchain
+Quinto: lo que entra en la blockchain queda en la blockchain. Tenemos
+que discutar cuando "entra" realmente una información, pero una vez
+que está en la blockchain, ya no es posible perderla.
 
 ## TBD (To Be Done)
 
